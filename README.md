@@ -1,13 +1,32 @@
 # General Deep Image Completion
-A Deep Image Completion Model for Recovering Various Corrupted Images
+This is the implementation and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight cGANs. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
-# Demo on Windows
+- General Completion Model
+
+The objective of this model is to complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
+
+- Face Completion Model
+
+This is an extension of our general image completion model that not only tackles the face completion task but also aiming on recovering faces with arbitrary missing regions. We apply a differnet but stronger deep autoencoder structure in this model.
+
+## Training 
+TBA
+
+## Demo System
 We build a simple interactive demonstration of image completion based on Python, OpenCV and TensorFlow on Windows
 
-## Setups
+### Videos
+
+### Setups
 - Install [Visual Studio Code](https://code.visualstudio.com/): A source code editor (Optional, but highly recommended)
 - Follow the guidelines from [TensorFlow](https://www.tensorflow.org/install/install_windows) to instal Python 3.5.2 and TensorFlow on Windows
 - Install libraries numpy and opencv-python through pip
-- Run demo_windows_iccv.py
+- Run demo.py in general-image-completion or face-completion folder
 
 If you failed to import tensorflow, please refer to [this article](https://github.com/tensorflow/tensorflow/issues/8385) for possible solutions.
+
+### Controls
+- Moving mouse to draw any scribbles on given images
+- Key c: convert corrupted images to completed images
+- Key r: resume any scribbles
+- Key n: next image
