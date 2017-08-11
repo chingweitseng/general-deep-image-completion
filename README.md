@@ -19,7 +19,7 @@ We build a simple interactive demonstration of image completion based on Python,
 
 [![General Image Completion](https://img.youtube.com/vi/513xQM4NrxY/0.jpg)](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be)
 
-[Face Image Completion](https://www.youtube.com/watch?v=MWj2kkMDrgY)
+[![Face Image Completion](https://img.youtube.com/vi/MWj2kkMDrgY/0.jpg)](https://www.youtube.com/watch?v=MWj2kkMDrgY&feature=youtu.be)
 
 ### Setups
 - Install [Visual Studio Code](https://code.visualstudio.com/): A source code editor (Optional, but highly recommended)
