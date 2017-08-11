@@ -26,7 +26,7 @@ We build a simple interactive demonstration of image completion based on Python,
 If you failed to import tensorflow, please refer to [this article](https://github.com/tensorflow/tensorflow/issues/8385) for possible solutions.
 
 ### Controls
-- Moving mouse to draw any scribbles on given images
+- Moving mouse to draw scribbles on given images
 - Key c: convert corrupted images to completed images
 - Key r: resume any scribbles
 - Key n: next image
