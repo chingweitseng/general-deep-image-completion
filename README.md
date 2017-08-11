@@ -1,11 +1,11 @@
 # General Deep Image Completion
 These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight cGANs. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
-- General Completion Model
+- General Completion
 
 The objective of this model is to complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
 
-- Face Completion Model
+- Face Completion
 
 This is an extension of our general image completion model that not only tackles the face completion task but also aiming on recovering faces with arbitrary missing regions. We apply a differnet but stronger deep autoencoder structure in this model.
 
@@ -15,11 +15,11 @@ TBA
 ## Demo System
 We build a simple interactive demonstration of image completion based on Python, OpenCV and TensorFlow on Windows
 
-### Videos
+### Videos (Youtube Links)
 
-[General Image Completion](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be) 
+[General Completion](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be) 
 
-[Face Image Completion](https://www.youtube.com/watch?v=MWj2kkMDrgY&feature=youtu.be)
+[Face Completion](https://www.youtube.com/watch?v=MWj2kkMDrgY&feature=youtu.be)
 
 ### Setups
 - Install [Visual Studio Code](https://code.visualstudio.com/): A source code editor (Optional, but highly recommended)
