@@ -1,0 +1,6 @@
+__pycache__/
+
+# model files
+model_*
+
+*.mp4
