@@ -1,7 +1,7 @@
 # General Deep Image Completion
 These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight cGANs. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
-- General Completion
+- General Image Completion
 
 The objective of this model is to complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
 
@@ -17,7 +17,7 @@ We build a simple interactive demonstration of image completion based on Python,
 
 ### Videos (Youtube Links)
 
-[General Completion](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be) 
+[General Image Completion](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be) 
 
 [Face Completion](https://www.youtube.com/watch?v=MWj2kkMDrgY&feature=youtu.be)
 
