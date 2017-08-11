@@ -1,11 +1,11 @@
 # General Deep Image Completion
 These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight cGANs. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
-## General Completion Model
+- General Completion Model
 
 The objective of this model is to complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
 
-## Face Completion Model
+- Face Completion Model
 
 This is an extension of our general image completion model that not only tackles the face completion task but also aiming on recovering faces with arbitrary missing regions. We apply a differnet but stronger deep autoencoder structure in this model.
 
