@@ -17,7 +17,7 @@ We build a simple interactive demonstration of image completion based on Python,
 
 ### Videos
 
-[General Image Completion](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be)
+[![General Image Completion](https://img.youtube.com/vi/513xQM4NrxY&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=513xQM4NrxY&feature=youtu.be)
 
 [Face Image Completion](https://www.youtube.com/watch?v=MWj2kkMDrgY)
 
