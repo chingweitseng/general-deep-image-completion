@@ -5,9 +5,13 @@ These are the implementations and simple demo system of my bmvc'17 paper: Genera
 
 The objective of this model is to complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
 
+![general image completion](https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/master/general-completion.jpg)
+
 - Face Completion
 
 This is an extension of our general image completion model that not only tackles the face completion task but also aiming on recovering faces with arbitrary missing regions. We apply a differnet but stronger deep autoencoder structure in this model.
+
+![face completion](https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/master/face-completion.jpg)
 
 ## Training 
 TBA
