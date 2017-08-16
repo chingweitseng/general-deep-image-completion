@@ -11,7 +11,7 @@ The objective of this model is to complete images with differnet types of corrup
 
 This is an extension of our general image completion model that not only tackles the face completion task but also aiming on recovering faces with arbitrary missing regions. We apply a differnet but stronger deep autoencoder structure in this model.
 
-![face completion](https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/master/face-completion.jpg)
+![face completion](https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/d8211e9434af07b74bda3f304c16658189c380fc/face-completion.jpg)
 
 ## Training 
 TBA
