@@ -1,4 +1,4 @@
-# General Deep Image Completion
+# General Deep Image Completion with Lightweight cGANs
 These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight cGANs. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
 - General Image Completion
