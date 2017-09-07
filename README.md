@@ -41,4 +41,9 @@ If you fail to import tensorflow, please refer to [this article](https://github.
 - Key n: next image
 
 ## Citation
-
+<pre>@inproceedings{tseng17general-deep,
+ author = {Ching-Wei Tseng and Hung-Jin Lin and Shang-Hong Lai},
+ booktitle = {Proceedings of the British Machine Vision Conference ({BMVC})},
+ title = {General Deep Image Completion with Lightweight Conditional Generative Adversarial Networks},
+ year = {2017}
+}</pre>
