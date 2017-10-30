@@ -1,5 +1,7 @@
 # General Deep Image Completion with Lightweight cGANs
-These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight Conditional Generative Adversarial Network. The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
+These are the implementations and simple demo system of my bmvc'17 paper: General Deep Image Completion with Lightweight Conditional Generative Adversarial Network. [\[PDF\]](https://www.dropbox.com/s/e4l19y9ggqqk2yf/0360.pdf?dl=1)[\[SUP\]](https://www.dropbox.com/s/57nzfn7rrlxbzh0/Active%20Papers%20Paper%20360%20%20Supplementary%20File.pdf?dl=1)
+
+The main goal of our paper is to build deep image completion models for recovering various corrupted images, including
 
 - General Image Completion
 
