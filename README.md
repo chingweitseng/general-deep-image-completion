@@ -29,7 +29,7 @@ We build a simple interactive demonstration of image completion based on Python,
 
 ### Setups
 - Install [Visual Studio Code](https://code.visualstudio.com/): A source code editor (Optional, but highly recommended)
-- Follow the guidelines from [TensorFlow](https://www.tensorflow.org/install/install_windows) to instal Python 3.5.2 and TensorFlow on Windows
+- Follow the guidelines from [TensorFlow](https://www.tensorflow.org/install/install_windows) to install Python 3.5.2 and TensorFlow on Windows
 - Install libraries numpy and opencv-python through pip
 - Download [face-completion-model](https://drive.google.com/file/d/0BwBvCjzIsl2vZHoxS0RrRm55d1U/view?usp=sharing) and [general-completion-model](https://drive.google.com/file/d/0BwBvCjzIsl2vV3FvZUd0VjdxZE0/view?usp=sharing). Put them into corresponding folders
 - Run **demo.py** in general-image-completion or face-completion folder
