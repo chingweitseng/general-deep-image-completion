@@ -37,7 +37,7 @@ def masking(img):
 
 # Read data path
 img_paths = []
-img_paths.extend( sorted(glob(os.path.join('testimages/faces', '*.bmp'))) )
+img_paths.extend( sorted(glob(os.path.join('testimages/', '*.bmp'))) )
 img_ori = cv2.imread( img_paths[img_idx]) / 255.
 img = img_ori
 empty = np.zeros((vis_size, vis_size, 3))
